@@ -1,0 +1,48 @@
+{
+  "categories": ["Plastic", "Paper", "Glass", "Metal", "Organic", "Electronic"],
+  "items": [
+    {
+      "id": "plastic-bottle",
+      "name": "Plastic bottle",
+      "category": "Plastic",
+      "synonyms": ["bottle", "pet bottle", "water bottle"],
+      "instructions": "Rinse to remove liquids, remove the cap if required by your local program, and place in the plastic recycling bin."
+    },
+    {
+      "id": "cardboard-box",
+      "name": "Cardboard box",
+      "category": "Paper",
+      "synonyms": ["box", "shipping box"],
+      "instructions": "Flatten the box, remove any plastic tape or labels if possible, and place in the paper/cardboard recycling bin."
+    },
+    {
+      "id": "glass-jar",
+      "name": "Glass jar",
+      "category": "Glass",
+      "synonyms": ["glass bottle", "jar"],
+      "instructions": "Empty and lightly rinse, remove metal lids where required, and place in the glass recycling container."
+    },
+    {
+      "id": "aluminium-can",
+      "name": "Aluminium can",
+      "category": "Metal",
+      "synonyms": ["soda can", "drink can", "tin"],
+      "instructions": "Empty, quickly rinse, and place in the metal recycling bin. Do not crush unless recommended by your local program."
+    },
+    {
+      "id": "banana-peel",
+      "name": "Banana peel",
+      "category": "Organic",
+      "synonyms": ["fruit peel", "food scraps"],
+      "instructions": "Place in a food waste bin or compost container. Do not mix with regular recycling."
+    },
+    {
+      "id": "battery",
+      "name": "Household battery",
+      "category": "Electronic",
+      "synonyms": ["aa battery", "aaa battery", "lithium battery"],
+      "instructions": "Never place batteries in regular trash or recycling. Store in a sealed container and take to a designated battery or e‑waste collection point."
+    }
+  ],
+  "logs": []
+}

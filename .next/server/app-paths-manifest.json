@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/api/reports/weekly/route": "app/api/reports/weekly/route.js",
+  "/api/admin/items/route": "app/api/admin/items/route.js",
+  "/api/classify/route": "app/api/classify/route.js",
+  "/admin/page": "app/admin/page.js"
+}
